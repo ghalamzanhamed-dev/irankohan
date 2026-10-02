@@ -1,0 +1,35 @@
+{
+  "id": "./",
+  "name": "ایران کهن",
+  "short_name": "ایران کهن",
+  "description": "گاه‌شمار آفلاین ایرانی با مناسبت‌ها و تم‌های تاریخی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f3e7",
+  "theme_color": "#1d3734",
+  "categories": ["utilities", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
